@@ -6,7 +6,7 @@ By 2027 I want to solve every LeetCode problem. This repo contains all my soluti
 * C++
 * Python
 
-**Easy :** 4
+**Easy :** 6
 **Medium :** 0
 **Hard :** 0
 

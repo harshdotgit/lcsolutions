@@ -4,9 +4,9 @@ Trying to keep my algorithms skills up by solving LeetCode problems **in optimal
 
 **Easy :** 8
 
-**Medium :** 6 
+**Medium :** 8 
 
-**Hard :** 0
+**Hard :** 1
 
 
 
